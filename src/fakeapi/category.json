@@ -1,0 +1,10 @@
+[
+  {
+    "catId": 1,
+    "catName": "Hard"
+  },
+  {
+    "catId": 2,
+    "catName": "Soft"
+  }
+]

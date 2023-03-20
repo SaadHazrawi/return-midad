@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Hard M2 ",
+    "code": "GDN-00231",
+    "releaseData": "March 19,2020",
+    "description": "speed and power and more storage 256GB",
+    "price": 20.01,
+    "star": 3.4,
+    "image": "../../favicon.ico",
+    "catId":1
+  },
+  {
+    "id": 2,
+    "name": "Ram Samsung  ",
+    "code": "GDN-00234",
+    "releaseData": "March 19,2023",
+    "description": "Max speed 3200 MGHZ and more Fixblatiy",
+    "price": 43.01,
+    "star": 4.4,
+    "image": "../../favicon.ico",
+    "catId":2
+  },
+  {
+    "id": 3,
+    "name": "Screen Samsung ",
+    "code": "GDN-00236",
+    "releaseData": "March 19,2023",
+    "description": "144Hz And 4K",
+    "price": 310.01,
+    "star": 4.8,
+    "image": "../../favicon.ico",
+    "catId":1
+  },
+  {
+    "id": 6,
+    "name": "IRON Case",
+    "code": "GDN-00238",
+    "releaseData": "March 19,2023",
+    "description": " Matinee",
+    "price": 120.01,
+    "star": 3.9,
+    "image": "../../favicon.ico",
+    "catId":1
+  },
+  {
+    "id": 11,
+    "name": "Laptop",
+    "code": "GDN-00244",
+    "releaseData": "March 19,2023",
+    "description": "Msi Core i9 G 12000 HQ",
+    "price": 2000.01,
+    "star": 4.1,
+    "image": "../../favicon.ico",
+    "catId":2
+  }
+]

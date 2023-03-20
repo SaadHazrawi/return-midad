@@ -1,0 +1,14 @@
+<div>
+    <h4></h4>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark ">
+<a href="#" class="navbar-brand">{{title}}</a>
+<ul class="nav">
+<li><a [routerLink]="['/welcome']" class="nav-link" >Home</a></li>
+<li><a [routerLink]="['/products']" class="nav-link" >Product</a></li>
+<li><a [routerLink]="['/account/login']" class="nav-link" >Login</a></li>
+</ul>
+    </nav>
+</div>
+<div class="container">
+<router-outlet></router-outlet>
+</div>
